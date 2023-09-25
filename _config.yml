@@ -1,0 +1,22 @@
+title: Liyoun9
+author: Liyoung
+email: eeylr1@nottingham.ac.uk
+description: >-
+  photos
+
+social:
+  twitter: liyoun9
+  facebook: 
+  instagram: liyoun6
+  github: liyoun9
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
